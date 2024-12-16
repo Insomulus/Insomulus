@@ -1,7 +1,7 @@
 # 💪 Joseph Hancock
 I'm a full-stack developer leaning more into the backend side of things with a few years experience in web development for e-commerce sites (Magento, BigCommerce etc).
 # 🔭 Current Project
-Secret mobile fitness app for iOS and Android. 🤫
+Secret app hopefully releasing soon. 🤫
 # 🌱 Currently Learning
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
